@@ -1,0 +1,31 @@
+{
+     "images": [
+          {
+               "id": 1,
+               "image": "images/art/1.jpg"
+          }, 
+          {
+               "id": 2,
+               "image": "images/art/2.jpg"
+          }, 
+          {
+               "id": 3,
+               "image": "https://raw.githubusercontent.com/Meetpatel-09/my-paintings/master/assets/images/p1.jpg"
+          }, 
+          {
+               "id": 4,
+               "image": "https://raw.githubusercontent.com/Meetpatel-09/my-paintings/master/assets/images/p2.jpg"
+          }, 
+          {
+               "id": 5,
+               "image": "https://raw.githubusercontent.com/Meetpatel-09/my-paintings/master/assets/images/p3.jpg"
+          }, 
+          {
+               "id": 6,
+               "image": "https://raw.githubusercontent.com/Meetpatel-09/my-paintings/master/assets/images/p4.jpg"
+          }
+        
+        
+     
+      ]
+}
